@@ -1,13 +1,19 @@
 **TRANG ĐĂNG KÝ WEB BÁN NÓN**
-![Screenshot 2024-03-06 001434](https://github.com/phinhannguyen04/ct188_web/assets/144946023/64327b1d-5fe6-4ab8-b003-c6a4c8c80c7e)
+-Trang Chủ-
+![trangchu1](https://github.com/phinhannguyen04/ct188_web/assets/144946023/c3c8077e-56e1-4592-843b-c0b532376823)
+![trangchu](https://github.com/phinhannguyen04/ct188_web/assets/144946023/eba5c0ec-11e2-4906-a8c7-7a5241947d8f)
+![trangchu2](https://github.com/phinhannguyen04/ct188_web/assets/144946023/905cd7cc-1b9a-40c5-bb93-2e4db7945365)
 
-_Thanh điều hướng_
 
-https://github.com/phinhannguyen04/ct188_web/assets/144946023/56650ea8-bef5-4934-9ab7-9011909e30b2
+-Đăng nhập-
+(chọn tài khoản tự động chuyển sang trang đăng nhập)
+![dangnhap](https://github.com/phinhannguyen04/ct188_web/assets/144946023/a458d710-7973-432b-8b06-184b56a2535b)
 
-_Form đăng ký_
 
-https://github.com/phinhannguyen04/ct188_web/assets/144946023/d410048b-6784-4507-915e-7f349f4d9ca9
+-Đăng ký-
+![dangky2](https://github.com/phinhannguyen04/ct188_web/assets/144946023/68ddb0f7-b4fa-43b7-af40-bcad3ecd6d20)
+![dangky](https://github.com/phinhannguyen04/ct188_web/assets/144946023/da51fc58-3dc8-4705-87b2-7c3eec7b6d55)
+
 
 
 
